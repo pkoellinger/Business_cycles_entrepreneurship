@@ -1,0 +1,6 @@
+by id: gen nimmip1=nimmi[_n+1]
+by id: gen nimmip2=nimmi[_n+2]
+by id: gen nimmip3=nimmi[_n+3]
+by id: gen nimmi1=nimmi[_n-1]
+by id: gen nimmi2=nimmi[_n-2]
+by id: gen nimmi3=nimmi[_n-3]
